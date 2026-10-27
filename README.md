@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Yuan Xinyi (Lingyee)</h1>
 
-<!--
-**Lingyee-Git/Lingyee-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Undergraduate Student** @ **Wuhan University**
+- 🧭 Focus: **Data Analysis** · **AI**
+- 🌱 Currently learning: **Python**
+
+---
+
+## 📬 Contact
+
+- 🌐 Personal website: [Lingyee-Git.github.io](https://Lingyee-Git.github.io)
+- 💻 GitHub: [@Lingyee-Git](https://github.com/Lingyee-Git)
+- 📧 Email: `yuan.xinyi456@qq.com`
+
+---
+
+## 📌 Latest Updates
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🚀 Projects
+
+- [**Lingyee-Git.github.io**](https://github.com/Lingyee-Git/Lingyee-Git.github.io) — Personal homepage website.
+
+---
+
+> Keep it simple. Keep building.
