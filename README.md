@@ -20,8 +20,7 @@
 
 ## 📌 Latest Updates
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **Oct 25, 2026** — Launched my personal homepage.
 
 ---
 
@@ -31,4 +30,4 @@
 
 ---
 
-> Keep it simple. Keep building.
+> Keep building.
